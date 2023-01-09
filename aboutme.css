@@ -1,14 +1,15 @@
 html{
-	font-size 14px;
+	font-size:20px;
 }
 .1{
-	font-size: 4em;
-	color: red;
+	font-size:2em;
+	color:red;
 }
-.2{ 
-	font-size: 4em; 
-	color: blue;
+.2{
+	font-size:3em;
+	color:blue;
 }
 .3{
-	font-size: 4em;
-	color: green;
+	font-size:4em;
+	color:green;
+}
